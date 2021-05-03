@@ -1,2 +1,2 @@
 # CP264
-Data Structures done in C
+All code for my Data Structures 2 course done in C
